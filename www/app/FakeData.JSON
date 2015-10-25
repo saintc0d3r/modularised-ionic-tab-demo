@@ -1,0 +1,7 @@
+{
+	"chats_service": {
+		"get_all": [
+			{"id": 123, "message": "hello"}
+		] 
+	}
+}

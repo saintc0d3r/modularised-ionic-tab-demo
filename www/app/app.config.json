@@ -1,0 +1,9 @@
+{
+	"rest_api": {
+		"use_fake_json": true,
+		"url":{
+			"fake_json": "app/FakeData.JSON",
+			"backend": "https://lifestyle.alive.com/api" 
+		}
+	}
+}
